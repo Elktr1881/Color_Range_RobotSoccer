@@ -1,0 +1,2 @@
+ADD_SUBDIRECTORY( uavision )
+ADD_SUBDIRECTORY( commTCP )

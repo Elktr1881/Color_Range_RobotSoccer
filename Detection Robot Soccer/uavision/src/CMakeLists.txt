@@ -1,0 +1,7 @@
+INCLUDE_DIRECTORIES(
+libs/uavision
+libs/commTCP
+)
+
+ADD_SUBDIRECTORY( libs )
+ADD_SUBDIRECTORY( apps )
